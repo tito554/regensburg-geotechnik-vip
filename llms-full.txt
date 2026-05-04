@@ -1,0 +1,51 @@
+# Geotechnik — Regensburg
+
+> Geotechnical engineering services in Regensburg, Deutschland.
+
+## Services
+- [Anker](https://regensburg.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://regensburg.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://regensburg.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://regensburg.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://regensburg.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://regensburg.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://regensburg.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://regensburg.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://regensburg.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://regensburg.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://regensburg.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://regensburg.geotechnik.vip/fundamente/)
+- [Grundungen](https://regensburg.geotechnik.vip/grundungen/)
+- [Hange](https://regensburg.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://regensburg.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://regensburg.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://regensburg.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://regensburg.geotechnik.vip/labor/)
+- [Labor In Situ](https://regensburg.geotechnik.vip/labor-in-situ/)
+- [Masw](https://regensburg.geotechnik.vip/masw/)
+- [Pfahle](https://regensburg.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://regensburg.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://regensburg.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://regensburg.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://regensburg.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://regensburg.geotechnik.vip/schurfgruben/)
+- [Seismik](https://regensburg.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://regensburg.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://regensburg.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://regensburg.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://regensburg.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://regensburg.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://regensburg.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://regensburg.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://regensburg.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://regensburg.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://regensburg.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://regensburg.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://regensburg.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://regensburg.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Regensburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
